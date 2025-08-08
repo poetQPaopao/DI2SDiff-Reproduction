@@ -1,0 +1,2 @@
+data/processed/motionsense_processed.npz
+checkpoints/diffusion_motionsense_model.pth
