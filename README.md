@@ -232,18 +232,7 @@ class MotionSenseConfig:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📚 Citation
 
-If you use this code in your research, please cite:
-
-```bibtex
-@misc{har-diffusion-project,
-  title={HAR-Diffusion-Project: Human Activity Recognition with Diffusion Models},
-  author={Your Name},
-  year={2025},
-  howpublished={\url{https://github.com/yourusername/HAR-Diffusion-Project}}
-}
-```
 
 ## 🔗 References
 
@@ -251,10 +240,3 @@ If you use this code in your research, please cite:
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 - [MotionSense Dataset](https://github.com/mmalekzadeh/motion-sense)
 - [PAMAP2 Dataset](https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring)
-
-## 📞 Contact
-
-For questions or collaboration opportunities, please reach out:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
